@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47b024a07ecdab44ba8af2584842041e, type: 3}
+  m_Name: Circle_Cat_G 3
+  m_EditorClassIdentifier: 
+  _shapeType: 3
+  _animalType: 3
+  _bodySprite: {fileID: 0}
+  _animalSprite: {fileID: 998854181, guid: ec7a684cdf92c724bb1716efbb77e500, type: 3}
+  _bodyColor: {r: 0.31596288, g: 0.8415094, b: 0.31596288, a: 1}
+  _special: 0
+  _frozenThreshold: 3
+  _prefab: {fileID: 3017039486909856240, guid: 310f86e6454230648a04091a23fec037, type: 3}

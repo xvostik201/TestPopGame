@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: ec7a684cdf92c724bb1716efbb77e500
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chicken
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 468
+        width: 294
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f446673ffa35a384988a7a976470c46f
+      internalID: 1740304119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 456
+        width: 286
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d933945b9b83e4ca7d346cee357a96
+      internalID: 998854181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephant
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 432
+        width: 450
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51406d26e95245844bec3559cf7dc786
+      internalID: -936343817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 115
+        width: 323
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7bf3b72f2def6489b3fecb388e89ce
+      internalID: -1533115043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 114
+        width: 370
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e3d98ed3d1a8748b6b3a00cf90ff38
+      internalID: 2108521801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 114
+        width: 306
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d6a2aa24c1dfb40b11fe56460f6bf7
+      internalID: -355291062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Chicken: 1740304119
+      Cute_Head_Animals_Set02-GS-Photoroom_0: -227661735
+      Cute_Head_Animals_Set02-GS-Photoroom_12: 453007593
+      Cute_Head_Animals_Set02-GS-Photoroom_13: 1206437309
+      Cute_Head_Animals_Set02-GS-Photoroom_14: 1680998680
+      Cute_Head_Animals_Set02-GS-Photoroom_15: 1880606227
+      Cute_Head_Animals_Set02-GS-Photoroom_16: 570001516
+      Cute_Head_Animals_Set02-GS-Photoroom_17: -1395810080
+      Cute_Head_Animals_Set02-GS-Photoroom_18: -2046221119
+      Cute_Head_Animals_Set02-GS-Photoroom_19: 1671551647
+      Cute_Head_Animals_Set02-GS-Photoroom_2: -1353636732
+      Cute_Head_Animals_Set02-GS-Photoroom_20: 523852508
+      Cute_Head_Animals_Set02-GS-Photoroom_21: -392695283
+      Cute_Head_Animals_Set02-GS-Photoroom_22: -1445363910
+      Cute_Head_Animals_Set02-GS-Photoroom_23: 1136173523
+      Cute_Head_Animals_Set02-GS-Photoroom_24: -1656516313
+      Cute_Head_Animals_Set02-GS-Photoroom_25: 260042169
+      Cute_Head_Animals_Set02-GS-Photoroom_26: 580590328
+      Cute_Head_Animals_Set02-GS-Photoroom_27: 1693953099
+      Cute_Head_Animals_Set02-GS-Photoroom_28: 1528160230
+      Cute_Head_Animals_Set02-GS-Photoroom_29: -1037049826
+      Cute_Head_Animals_Set02-GS-Photoroom_30: -1020167476
+      Cute_Head_Animals_Set02-GS-Photoroom_31: 1735084401
+      Cute_Head_Animals_Set02-GS-Photoroom_32: -1692571282
+      Cute_Head_Animals_Set02-GS-Photoroom_33: 56568443
+      Cute_Head_Animals_Set02-GS-Photoroom_34: 379636140
+      Cute_Head_Animals_Set02-GS-Photoroom_35: 1218919531
+      Cute_Head_Animals_Set02-GS-Photoroom_36: 1458641427
+      Cute_Head_Animals_Set02-GS-Photoroom_37: 1474320004
+      Cute_Head_Animals_Set02-GS-Photoroom_38: -1522418476
+      Cute_Head_Animals_Set02-GS-Photoroom_39: -116301856
+      Cute_Head_Animals_Set02-GS-Photoroom_4: -1830491882
+      Cute_Head_Animals_Set02-GS-Photoroom_40: 2052636314
+      Cute_Head_Animals_Set02-GS-Photoroom_6: -1804422406
+      Cute_Head_Animals_Set02-GS-Photoroom_7: 470652792
+      Cute_Head_Animals_Set02-GS-Photoroom_8: 1378110815
+      Dog: -1533115043
+      Elephant: -936343817
+      Monkey: 2108521801
+      Penguin: -355291062
+      Wolf: 998854181
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
